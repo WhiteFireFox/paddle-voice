@@ -18,3 +18,7 @@
 <br>
 ![](https://ai-studio-static-online.cdn.bcebos.com/2c4e9602b2f449b0a02418df9dda68257de7c2cb31db4b75935798199c653b41)
 <br><br>
+
+<font size=6>**项目体验**</font>
+<br><br>
+&emsp;&emsp;&emsp;&emsp;<font size=5>更多该项目体验请访问：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/632042)
